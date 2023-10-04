@@ -1,0 +1,25 @@
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+    background-color: #f2f2f2;
+}
+.text {
+    padding-left: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: normal; 
+}
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6; 
+}
